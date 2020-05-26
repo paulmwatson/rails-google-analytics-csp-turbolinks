@@ -41,6 +41,6 @@ Don't forget to update `app/assets/config/manifest.js`:
 ..
 ```
 
-You can view a demo of this at [tranquil-springs-06444.herokuapp.com](https://tranquil-springs-06444.herokuapp.com/):
+You can view [a demo of this](https://tranquil-springs-06444.herokuapp.com/) and read [an article about it](https://medium.com/@paulmwatson/ruby-on-rails-6-with-google-analytics-turbolinks-and-a-content-security-policy-c4e078df8530):
 
 ![Screenshot](screenshot-xhr.png "Screenshot of Firefox console showing network log")
